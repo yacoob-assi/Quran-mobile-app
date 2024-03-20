@@ -7,7 +7,7 @@ profile page for students and teachers
 
 
 
-![266797![266797550-b54b9d48-831e-4fdb-8daf-18272b76331e (1)](https://github.com/yacoob-assi/Quran-mobile-app/assets/78143481/318efb78-fbfc-48de-84d8-934bb616dc71)
+![266797550-b54b9d48-831e-4fdb-8daf-18272b76331e (1)](https://github.com/yacoob-assi/Quran-mobile-app/assets/78143481/318efb78-fbfc-48de-84d8-934bb616dc71)
 
 update profile 
 
